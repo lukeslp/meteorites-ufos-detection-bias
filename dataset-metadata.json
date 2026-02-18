@@ -1,0 +1,9 @@
+{
+  "title": "Meteorites vs UFOs Detection Bias",
+  "id": "lucassteuber/meteorites-ufos-detection-bias",
+  "licenses": [{"name": "CC0-1.0"}],
+  "subtitle": "Witnessed meteorite falls vs UFO reports across time and US states",
+  "description": "# Meteorites vs UFOs: Detection Bias Study\n\nBoth meteorite falls and UFO sightings depend on someone looking up at the right time. This dataset puts them side by side -- same timeframe, same geography -- to see where the patterns diverge.\n\n## What's Inside\n\nThree tables in one JSON file:\n\n| Section | Records | What It Is |\n|---------|---------|------------|\n| `temporal_comparison` | 124 | Year-by-year meteorite falls vs UFO reports (1900-2023) |\n| `state_comparison` | 58 | State-level counts and UFO-to-meteorite ratios |\n| `meteorite_detail` | 1,097 | Individual witnessed falls with US state assignment |\n\n## The Question\n\nMeteorite falls are real astronomical events. UFO sightings are... something else. But both require a human witness looking at the sky. So what drives the difference?\n\n- Population density? More people = more reports of both.\n- Cultural factors? Some states report far more UFOs per real sky event.\n- Time trends? UFO reports exploded after the 1990s. Meteorite documentation stayed steady.\n\n## Sources\n\n- **Meteoritical Bulletin (via NASA)** -- Public Domain -- https://www.lpi.usra.edu/meteor/\n- **National UFO Reporting Center (NUFORC)** -- Public Domain -- https://nuforc.org/",
+  "keywords": ["astronomy", "earth and nature", "science and technology"],
+  "isPrivate": true
+}
