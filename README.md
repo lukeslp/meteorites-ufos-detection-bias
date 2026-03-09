@@ -135,8 +135,6 @@ for s in ranked[:5]:
 
 ## Distribution
 
-- **GitHub**: [lukeslp/meteorites-ufos-detection-bias](https://github.com/lukeslp/meteorites-ufos-detection-bias)
-- **HuggingFace**: [lukeslp/meteorites-ufos-detection-bias](https://huggingface.co/datasets/lukeslp/meteorites-ufos-detection-bias)
 - **Kaggle**: [lucassteuber/meteorites-ufos-detection-bias](https://www.kaggle.com/datasets/lucassteuber/meteorites-ufos-detection-bias)
 
 ## Author
